@@ -401,7 +401,7 @@ tamano_lote = 500
 for i in range(0, len(registros), tamano_lote):
  lote = registros[i : i + tamano_lote]
  coleccion.insert_many(lote)
-print(f'✅ {coleccion.count_documents({})} documentos insertados en MongoDB')
+print(f' {coleccion.count_documents({})} documentos insertados en MongoDB')
 ```
  
 **Interpretación:**
