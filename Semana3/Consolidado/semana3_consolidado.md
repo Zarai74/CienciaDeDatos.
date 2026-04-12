@@ -2,7 +2,7 @@
 
 ### Ejercicios Complementarios.
 
-**Ejercicio 1: Vaiables y tipos de Datos.**
+**Ejercicio 1: Variables y tipos de Datos.**
 
 
 ```python
