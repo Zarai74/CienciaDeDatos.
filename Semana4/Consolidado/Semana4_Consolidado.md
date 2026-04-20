@@ -1,6 +1,6 @@
 # Semana 4 — Consolidado Semanal
 **Curso:** QR.LSTI2309TEO — Ciencia de Datos | Universidad Tecmilenio  
-**Alumno:** [Tu Nombre]  
+**Alumno:** Ana Sarai Zuñiga Esquivel 
 **Semana:** 4 | Temas 9–12
 
 ## 1. Ejercicios Complementarios.
